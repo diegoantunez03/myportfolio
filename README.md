@@ -11,4 +11,4 @@
 
 5. next type npm run dev and open the local URL
 
-6. 
+project I created through a youtube video and udemy lessons. soon to be published and updated 
